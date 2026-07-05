@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor/OS temporary files
+.DS_Store
+*.swp
+*~
