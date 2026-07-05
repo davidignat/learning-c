@@ -18,6 +18,9 @@
 *.dylib
 *.dll
 
+# Ignore the build folder entirely
+/build/
+
 # Executables
 *.exe
 *.out
